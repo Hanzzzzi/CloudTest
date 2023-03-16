@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14385619-54f2-4587-b4d4-411fcb7e95ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kMWka8tOOqEDTxgp4xp8orIQ9Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/microservice-consumer-movie-feign/src/main/java/org/omaha/cloud" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.30475086" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.omaha.cloud" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.omaha.cloud.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CloudTest\spring-cloud-microservice-study\microservice-consumer-movie-feign-with-hystrix\src\main\resources" />
+      <recent name="D:\CloudTest\spring-cloud-microservice-study\microservice-consumer-movie-feign-with-hystrix\src\main\java" />
+      <recent name="D:\CloudTest\spring-cloud-microservice-study" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MovieFeignHystrixApplication">
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="microservice-discovery-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.omaha.cloud.EurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.omaha.cloud.MovieFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieFeignHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-consumer-movie-feign-with-hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cloud.MovieFeignHystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-consumer-movie-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.omaha.cloud.MovieRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieRibbonHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-consumer-movie-ribbon-with-hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.omaha.cloud.MovieRibbonHystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="microservice-provider-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.omaha.cloud.UserApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.omaha.cloud.ZuulApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.MovieFeignApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.MovieRibbonApplication" />
+      <item itemvalue="Spring Boot.MovieRibbonHystrixApplication" />
+      <item itemvalue="Spring Boot.MovieFeignHystrixApplication" />
+      <item itemvalue="Spring Boot.ZuulApiGatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MovieFeignHystrixApplication" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
+        <item itemvalue="Spring Boot.ZuulApiGatewayApplication" />
+        <item itemvalue="Spring Boot.MovieRibbonHystrixApplication" />
+        <item itemvalue="Spring Boot.MovieRibbonApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14385619-54f2-4587-b4d4-411fcb7e95ce" name="Default Changelist" comment="" />
+      <created>1605511085057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605511085057</updated>
+      <workItem from="1605511086158" duration="7499000" />
+      <workItem from="1605581226744" duration="52000" />
+      <workItem from="1605581293176" duration="11032000" />
+      <workItem from="1607072849487" duration="927000" />
+      <workItem from="1607676136600" duration="104000" />
+      <workItem from="1607678698280" duration="31000" />
+      <workItem from="1617370050331" duration="223000" />
+      <workItem from="1618544538607" duration="762000" />
+      <workItem from="1618921745129" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1605595162774">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1605595162774" />
+    <state x="96" y="22" width="1086" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605582512235">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="96" y="22" width="1086" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1605582512235" />
+    <state x="348" y="181" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605515099955">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="348" y="181" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.760@0.0.1280.760" timestamp="1605515099955" />
+    <state x="446" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1605591689125">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="446" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1605591689125" />
+    <state x="371" y="183" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605582504393">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="371" y="183" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.760@0.0.1280.760" timestamp="1605582504393" />
+    <state x="134" y="303" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1605581796811">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="134" y="303" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.760@0.0.1280.760" timestamp="1605581796811" />
+    <state x="298" y="260" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1605581799636">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="298" y="260" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.760@0.0.1280.760" timestamp="1605581799636" />
+    <state x="443" y="89" key="FileChooserDialogImpl" timestamp="1605583963718">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="443" y="89" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1605583963718" />
+    <state width="1238" height="463" key="GridCell.Tab.0.bottom" timestamp="1607075408772">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1607075408772" />
+    <state width="1238" height="463" key="GridCell.Tab.0.center" timestamp="1607075408772">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1607075408772" />
+    <state width="1238" height="463" key="GridCell.Tab.0.left" timestamp="1607075408772">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1607075408772" />
+    <state width="1238" height="463" key="GridCell.Tab.0.right" timestamp="1607075408772">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1607075408772" />
+    <state width="1238" height="463" key="GridCell.Tab.1.bottom" timestamp="1607075408772">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1607075408772" />
+    <state width="1238" height="463" key="GridCell.Tab.1.center" timestamp="1607075408772">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1607075408772" />
+    <state width="1238" height="463" key="GridCell.Tab.1.left" timestamp="1607075408772">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1607075408772" />
+    <state width="1238" height="463" key="GridCell.Tab.1.right" timestamp="1607075408772">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1607075408772" />
+    <state width="1238" height="463" key="GridCell.Tab.2.bottom" timestamp="1607075408772">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.2.bottom/0.0.1280.760@0.0.1280.760" timestamp="1607075408772" />
+    <state width="1238" height="463" key="GridCell.Tab.2.center" timestamp="1607075408772">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.2.center/0.0.1280.760@0.0.1280.760" timestamp="1607075408772" />
+    <state width="1238" height="463" key="GridCell.Tab.2.left" timestamp="1607075408772">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.2.left/0.0.1280.760@0.0.1280.760" timestamp="1607075408772" />
+    <state width="1238" height="463" key="GridCell.Tab.2.right" timestamp="1607075408772">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.2.right/0.0.1280.760@0.0.1280.760" timestamp="1607075408772" />
+    <state x="308" y="85" width="869" height="591" key="NewModule_or_Project.wizard" timestamp="1605583970909">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="308" y="85" width="869" height="591" key="NewModule_or_Project.wizard/0.0.1280.760@0.0.1280.760" timestamp="1605583970909" />
+    <state x="99" y="0" width="1079" height="760" key="SettingsEditor" timestamp="1605597872751">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="99" y="0" width="1079" height="760" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1605597872751" />
+    <state width="646" height="386" key="XDebugger.FullValuePopup" timestamp="1605516253615">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="646" height="386" key="XDebugger.FullValuePopup/0.0.1280.760@0.0.1280.760" timestamp="1605516253615" />
+    <state x="442" y="158" key="chooseDestDirectoryDialog" timestamp="1605582028607">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="442" y="158" key="chooseDestDirectoryDialog/0.0.1280.760@0.0.1280.760" timestamp="1605582028607" />
+    <state x="6" y="41" key="new project wizard" timestamp="1605595791641">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="6" y="41" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1605595791641" />
+  </component>
+</project>
